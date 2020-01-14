@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TrainingAndroidDay1</string>
+    <string name="profile_name">%s\'s profile</string>
+</resources>
